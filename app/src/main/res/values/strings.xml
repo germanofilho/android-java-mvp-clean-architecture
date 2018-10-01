@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">desafio-brq</string>
+
+    <string name="car_list">Carros</string>
+    <string name="cart">Carrinho</string>
+    <string name="about_me">Sobre Mim</string>
+
+    <string name="total_value">R%s</string>
+    <string name="error_car_list">Não foi possivel carregar a lista de carros</string>
+    <string name="removed_car_list">Carro removido com sucesso!</string>
+    <string name="successful_buy">Sua compra foi realizada com sucesso!</string>
+    <string name="empty_checkout">Seu carrinho está vazio</string>
+    <string name="max_limit">Limite de compra excedido, remova algum item do carrinho.</string>
+    <string name="add_car_in_cart">Adicionado ao carrinho com sucesso!</string>
+    <string name="description">Descrição</string>
+    <string name="brand">Marca</string>
+    <string name="buy">Finalizar Compra</string>
+    <string name="quantity">Quantidade</string>
+    <string name="add_cart">Adicionar ao Carrinho</string>
+    <string name="price">Preço</string>
+    <string name="stock">Unidades em Estoque: %d</string>
+    <string name="go_to_cart">Adicionar ao carrinho</string>
+    <string name="quantity_buy">Quantidade: %d</string>
+
+
+    <string name="param_car">param_car</string>
+    <string name="param_go_to_checkout">param_go_to_checkout</string>
+</resources>

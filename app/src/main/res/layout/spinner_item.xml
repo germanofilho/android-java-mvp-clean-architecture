@@ -1,0 +1,11 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/text1"
+    style="?android:attr/spinnerItemStyle"
+    android:singleLine="true"
+    android:layout_width="match_parent"
+    android:textSize="@dimen/material_text_subhead"
+    android:paddingStart="@dimen/medium_padding"
+    android:paddingEnd="@dimen/medium_padding"
+    android:layout_height="wrap_content"
+    android:ellipsize="marquee"
+    android:textAlignment="inherit"/>
